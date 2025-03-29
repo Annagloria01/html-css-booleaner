@@ -1,3 +1,27 @@
+header {
+  background-image: url("../img/pattern.png");
+  background-color: #67b8e0;
+  background-repeat: repeat;
+  height: 40px;
+  padding: 50px;
+}
+
+body {
+  margin: 0;
+}
+
+#not-header{
+  margin-left: auto;
+  width: 90%;
+  align-items: center;
+  justify-content: center;
+}
+
+header > img {
+  height: 50px;
+  margin-left: auto;
+}
+
 #title {
   margin-bottom: 0;
 }
