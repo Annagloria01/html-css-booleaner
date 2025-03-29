@@ -1,0 +1,58 @@
+#title {
+  margin-bottom: 0;
+}
+
+.subtitle-color {
+  color: gray;
+}
+
+#author {
+  color:cornflowerblue;
+}
+
+#publication-date {
+  font-size:x-small;
+}
+
+.caption-font-size {
+  font-size: small;
+}
+
+.spacing {
+  margin-bottom: 15px;
+}
+
+#highlighted-text {
+  background-color: yellow;
+}
+
+ul {
+  padding: 0;
+  list-style-position: inside;
+}
+
+.header-background-color {
+  background-color: cornflowerblue;
+  color: white;
+  text-align: left;
+}
+
+.column-25 {
+  width: 25%;
+}
+
+#table-header-3 {
+  width: 50%;
+}
+
+.row-background {
+  background-color: #c7d3ed;
+}
+
+footer {
+  margin-top: 45px;
+  background-color: #050952;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
